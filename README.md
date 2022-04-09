@@ -25,4 +25,3 @@ For Course 计算机编程入门
 [代码](HW1-4.py)
 
 
-#Author by: 今天也很想叶小姐
