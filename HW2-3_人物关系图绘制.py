@@ -3,8 +3,6 @@ from pyecharts.charts import Graph
 
 ##--- 第0步：准备工作
 # 输入文件
-#node_file_name = './data/三国演义-段落示例-人物节点.csv'
-#link_file_name = './data/三国演义-段落示例-人物连接.csv'
 node_file_name = 'C:/Users/86153/Desktop/Courses/北京大学选课/计算机编程（交作业）/作业2/网页3/高达人物节点 - 分类.csv'
 link_file_name = 'C:/Users/86153/Desktop/Courses/北京大学选课/计算机编程（交作业）/作业2/网页3/高达人物连接.csv'
 # 输出文件
